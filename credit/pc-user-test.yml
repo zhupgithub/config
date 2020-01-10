@@ -42,4 +42,4 @@ feign:
   hystrix:
     enabled: true
 
-username: zhpeng111
+username: zhpeng333
